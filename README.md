@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**7rohxt/7rohxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GenAI Projects
 
-Here are some ideas to get you started:
+- [**Hybrid Log Classifier**](https://github.com/7rohxt/hybrid-log-classifier)  
+  Classify logs using Regex, ML, and LLMs.  
+  *Tech:* Python, Jupyter Notebook, Transformers  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Whats-Macro-n8n**](https://github.com/7rohxt/whats-macro-n8n)  
+  Track daily calories and macros directly through WhatsApp.  
+  *Tech:* OpenAI, n8n-workflow, WhatsApp API, Google Drive API  
+
+- [**Finetune Ollama Unsloth**](https://github.com/7rohxt/finetune-ollama-unsloth)  
+  Phi-3 Mini patient admission fine-tuning using LoRA and PEFT.  
+  *Tech:* Ollama, Phi-3, PEFT, LoRA, Jupyter Notebook  
+
+- [**Smart Cold Email Generator**](https://github.com/7rohxt/smart-cold-email-generator)  
+  Generate personalized cold emails automatically.  
+  *Tech:* Jupyter Notebook, NLP, Transformers  
+
+- [**Text-to-SQL Agent**](https://github.com/7rohxt/text-to-sql-agent)  
+  Talk to your MySQL database using natural language.  
+  *Tech:* Python, SQL, LangChain, LLMs
+
