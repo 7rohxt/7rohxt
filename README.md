@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## GenAI Projects
+## GenAI Projects 
 
 <table>
 <tr>
@@ -33,4 +33,59 @@
 </td>
 </tr>
 </table>
+
+## AI Learning Hub Toy (Projects and Concepts)
+
+<table>
+<tr>
+<td>
+
+### Agentic AI
+- [Agno Finance Agent](link)  
+- [LangGraph Crashcourse](link)  
+- [CrewAI Agent](link)  
+
+### NLP & GenAI
+- [NLP Text Classifier AWS Deployed](link)  
+- [BERT Basic Text Classifier](link)  
+- [Transformer vs NLTK Sentiment Analysis](link)  
+- [YouTube Assistant](link)  
+- [LangChain Crash Course](link)  
+
+</td>
+<td>
+
+### ML Projects
+ 
+- [Iris Flower Classification](link)  
+- [Titanic Survival Prediction](link)  
+- [Housing Prediction AWS Deployed](link)
+  
+###  Deep Learning
+- [Rice Type Classification](link)  
+- [Animal Classification CNN](link)  
+- [Bean Leaf Transfer Learning](link)  
+- [Audio Classification](link)  
+- [Stock Prediction PyTorch](link)  
+
+</td>
+<td>
+
+### ML Models from Scratch
+- [Linear Regression](link)  
+- [Neural Network](link)  
+
+### Computer Vision
+- [Car Counter](link)  
+- [Document Scanner](link)  
+- [Number Plate Detector](link)  
+- [OpenCV Basics](link)  
+- [People Counter](link)  
+- [YOLO Basics](link)  
+
+
+</td>
+</tr>
+</table>
+
 
