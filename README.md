@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<div align="center">
+
+
+
+![GitHub Contribution Graph](https://ssr-contributions-svg.vercel.app/_/7rohxt?chart=3dbar&gap=0.6&scale=100&flatten=0&animation=wave&animation_duration=1&animation_delay=0.03&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40)
+
+</div>
+
+---
+
 ## GenAI Projects 
 
 <table>
