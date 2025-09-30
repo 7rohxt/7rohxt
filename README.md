@@ -9,18 +9,14 @@ AI Engineer | Building GenAI Projects | ☕ Fueled by Coffee & Curiosity
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=grey)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge\&logo=tensorflow\&logoColor=grey)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge\&logo=pytorch\&logoColor=grey)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge\&logo=keras\&logoColor=grey)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge\&logo=scikit-learn\&logoColor=grey)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge\&logo=opencv\&logoColor=grey)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=grey)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=grey)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge\&logo=streamlit\&logoColor=grey)
 ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-000000?style=for-the-badge\&logo=amazon-aws\&logoColor=grey)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-000000?style=for-the-badge\&logo=amazon-aws\&logoColor=grey)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=grey)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logo=chainlink\&logoColor=grey)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge\&logo=graph\&logoColor=grey)
-![Crew AI](https://img.shields.io/badge/Crew_AI-000000?style=for-the-badge\&logo=ai\&logoColor=grey)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=grey)
 
 ## My GitHub Contributions This Year 
