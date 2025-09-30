@@ -30,7 +30,7 @@ AI Engineer | Building GenAI Projects | ☕ Fueled by Coffee & Curiosity
 </div>
 
 ## Overview of my Projects
-#### Gen AI Projects
+### Gen AI Projects
 
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
@@ -99,7 +99,7 @@ Track daily macros with WhatsApp.
 
 --
 
-#### AI Learning Hub - Learning Portfolio
+### AI Learning Hub - Learning Portfolio
 
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
