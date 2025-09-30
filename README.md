@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-### My GitHub Contributions 
+## My GitHub Contributions 
 An animation of my contributions throughout the year. 
 
 <div align="center">
@@ -10,91 +10,116 @@ An animation of my contributions throughout the year.
 
 </div>
 
+## Overview of my Projects
+#### Gen AI Projects
 
-### GenAI Projects 
-Some of my recent projects leveraging Generative AI and NLP.
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none; padding: 10px; vertical-align: top;">
 
-<div align="center">
-
-| | |
-|---|---|
-| **[Hybrid Log Classifier](https://github.com/7rohxt/hybrid-log-classifier)**<br/>Intelligent log classification using Regex, ML, and LLMs<br/>`Python` `Transformers` `Machine Learning` | **[Smart Cold Email Generator](https://github.com/7rohxt/smart-cold-email-generator)**<br/>AI-powered personalized cold email generation<br/>`NLP` `Transformers` `Automation` |
-| **[Finetune Ollama Unsloth](https://github.com/7rohxt/finetune-ollama-unsloth)**<br/>Phi-3 Mini fine-tuning for patient admission using LoRA & PEFT<br/>`Ollama` `Phi-3` `LoRA` `PEFT` | **[Whats-Macro-n8n](https://github.com/7rohxt/whats-macro-n8n)**<br/>Track calories and macros through WhatsApp messaging<br/>`OpenAI` `n8n` `WhatsApp API` `Google Drive API` |
-| **[Text-to-SQL Agent](https://github.com/7rohxt/text-to-sql-agent)**<br/>Natural language interface for MySQL databases<br/>`LangChain` `SQL` `LLMs` `Python` | |
-
-</div> 
-
-
-
-### AI Learning Hub - Learning Portfolio
-A curated collection of my learning projects in AI, ML, NLP, CV, and GenAI.
-
-<div align="center"> 
-
-<table>
-<tr>
-<th>Agentic AI</th>
-<th>ML Projects</th>
-<th>ML from Scratch</th>
-</tr>
-<tr>
-<td>
-  
--[Agno Finance Agent](link)  
--[LangGraph Crashcourse](link)  
--[CrewAI Agent](link)
+[![Hybrid Log Classifier](https://img.shields.io/badge/Hybrid_Log_Classifier-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/hybrid-log-classifier)  
+`Jupyter Notebook` `Python` `Transformers`
 
 </td>
-<td>
+<td style="border: none; padding: 10px; vertical-align: top;">
 
--[Iris Flower Classification](link)  
--[Titanic Survival Prediction](link)  
--[Housing Prediction AWS](link)
+[![Whats-Macro-n8n](https://img.shields.io/badge/Whats--Macro--n8n-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/whats-macro-n8n)  
+`OpenAI` `WhatsApp API` `Google Sheets API`
 
 </td>
-<td>
+<td style="border: none; padding: 10px; vertical-align: top;">
 
--[Linear Regression](link)  
--[Neural Network](link)
+[![Finetune Ollama Unsloth](https://img.shields.io/badge/Finetune_Ollama_Unsloth-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/finetune-ollama-unsloth)  
+`LoRA` `PEFT` `Ollama` `Unsloth` `Phi-3`
 
 </td>
 </tr>
-<tr>
-<th>NLP & GenAI</th>
-<th>Deep Learning</th>
-<th>Computer Vision</th>
-</tr>
-<tr>
-<td>
+<tr style="border: none;">
+<td style="border: none; padding: 10px; vertical-align: top;">
 
--[NLP Text Classifier AWS](link)  
--[BERT Text Classifier](link)  
--[Transformer vs NLTK Analysis](link)  
--[YouTube Assistant](link)  
--[LangChain Crash Course](link)
+[![Smart Cold Email Generator](https://img.shields.io/badge/Smart_Cold_Email_Generator-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/smart-cold-email-generator)  
+`NLP` `Transformers` `Automation`
 
 </td>
-<td>
+<td style="border: none; padding: 10px; vertical-align: top;">
 
--[Rice Type Classification](link)  
--[Animal Classification CNN](link)  
--[Bean Leaf Transfer Learning](link)  
--[Audio Classification](link)  
--[Stock Prediction PyTorch](link)
+[![Text-to-SQL Agent](https://img.shields.io/badge/Text--to--SQL_Agent-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/text-to-sql-agent)  
+`LangChain` `SQL` `LLMs` `Python`
 
 </td>
-<td>
-
--[Car Counter](link)  
--[Document Scanner](link)  
--[Number Plate Detector](link)  
--[OpenCV Basics](link)  
--[People Counter](link)  
--[YOLO Basics](link)
+<td style="border: none; padding: 10px; vertical-align: top;">
 
 </td>
 </tr>
 </table>
 
-</div> 
+--
+
+#### AI Learning Hub - Learning Portfolio
+
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<th style="border: none; padding: 15px; font-size: 18px;">Agentic AI</th>
+<th style="border: none; padding: 15px; font-size: 18px;">ML Projects</th>
+<th style="border: none; padding: 15px; font-size: 18px;">ML from Scratch</th>
+</tr>
+<tr style="border: none;">
+<td style="border: none; padding: 10px; vertical-align: top;">
+
+[![Agno Finance Agent](https://img.shields.io/badge/Agno_Finance_Agent-000000?style=for-the-badge&logo=github)](link)  
+[![LangGraph Crashcourse](https://img.shields.io/badge/LangGraph_Crashcourse-000000?style=for-the-badge&logo=github)](link)  
+[![CrewAI Agent](https://img.shields.io/badge/CrewAI_Agent-000000?style=for-the-badge&logo=github)](link)
+
+</td>
+<td style="border: none; padding: 10px; vertical-align: top;">
+
+[![Iris Flower Classification](https://img.shields.io/badge/Iris_Flower_Classification-000000?style=for-the-badge&logo=github)](link)  
+[![Titanic Survival Prediction](https://img.shields.io/badge/Titanic_Survival_Prediction-000000?style=for-the-badge&logo=github)](link)  
+[![Housing Prediction AWS](https://img.shields.io/badge/Housing_Prediction_AWS-000000?style=for-the-badge&logo=github)](link)
+
+</td>
+<td style="border: none; padding: 10px; vertical-align: top;">
+
+[![Linear Regression](https://img.shields.io/badge/Linear_Regression-000000?style=for-the-badge&logo=github)](link)  
+[![Neural Network](https://img.shields.io/badge/Neural_Network-000000?style=for-the-badge&logo=github)](link)
+
+</td>
+</tr>
+<tr style="border: none;">
+<th style="border: none; padding: 15px; font-size: 18px;">NLP & GenAI</th>
+<th style="border: none; padding: 15px; font-size: 18px;">Deep Learning</th>
+<th style="border: none; padding: 15px; font-size: 18px;">Computer Vision</th>
+</tr>
+<tr style="border: none;">
+<td style="border: none; padding: 10px; vertical-align: top;">
+
+[![NLP Text Classifier AWS](https://img.shields.io/badge/NLP_Text_Classifier_AWS-000000?style=for-the-badge&logo=github)](link)  
+[![BERT Text Classifier](https://img.shields.io/badge/BERT_Text_Classifier-000000?style=for-the-badge&logo=github)](link)  
+[![Transformer vs NLTK Analysis](https://img.shields.io/badge/Transformer_vs_NLTK_Analysis-000000?style=for-the-badge&logo=github)](link)  
+[![YouTube Assistant](https://img.shields.io/badge/YouTube_Assistant-000000?style=for-the-badge&logo=github)](link)  
+[![LangChain Crash Course](https://img.shields.io/badge/LangChain_Crash_Course-000000?style=for-the-badge&logo=github)](link)
+
+</td>
+<td style="border: none; padding: 10px; vertical-align: top;">
+
+[![Rice Type Classification](https://img.shields.io/badge/Rice_Type_Classification-000000?style=for-the-badge&logo=github)](link)  
+[![Animal Classification CNN](https://img.shields.io/badge/Animal_Classification_CNN-000000?style=for-the-badge&logo=github)](link)  
+[![Bean Leaf Transfer Learning](https://img.shields.io/badge/Bean_Leaf_Transfer_Learning-000000?style=for-the-badge&logo=github)](link)  
+[![Audio Classification](https://img.shields.io/badge/Audio_Classification-000000?style=for-the-badge&logo=github)](link)  
+[![Stock Prediction PyTorch](https://img.shields.io/badge/Stock_Prediction_PyTorch-000000?style=for-the-badge&logo=github)](link)
+
+</td>
+<td style="border: none; padding: 10px; vertical-align: top;">
+
+[![Car Counter](https://img.shields.io/badge/Car_Counter-000000?style=for-the-badge&logo=github)](link)  
+[![Document Scanner](https://img.shields.io/badge/Document_Scanner-000000?style=for-the-badge&logo=github)](link)  
+[![Number Plate Detector](https://img.shields.io/badge/Number_Plate_Detector-000000?style=for-the-badge&logo=github)](link)  
+[![OpenCV Basics](https://img.shields.io/badge/OpenCV_Basics-000000?style=for-the-badge&logo=github)](link)  
+[![People Counter](https://img.shields.io/badge/People_Counter-000000?style=for-the-badge&logo=github)](link)  
+[![YOLO Basics](https://img.shields.io/badge/YOLO_Basics-000000?style=for-the-badge&logo=github)](link)
+
+</td>
+</tr>
+</table>
+
 
