@@ -1,7 +1,29 @@
-# Hi there 👋
+# Hi There! 👋🏼
 
-## My GitHub Contributions 
-An animation of my contributions throughout the year. 
+## About Me
+AI Engineer | Building GenAI Projects | ☕ Fueled by Coffee & Curiosity
+
+## Techstack
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=grey)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=grey)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge\&logo=tensorflow\&logoColor=grey)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge\&logo=pytorch\&logoColor=grey)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge\&logo=keras\&logoColor=grey)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge\&logo=scikit-learn\&logoColor=grey)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge\&logo=opencv\&logoColor=grey)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=grey)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=grey)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge\&logo=streamlit\&logoColor=grey)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-000000?style=for-the-badge\&logo=amazon-aws\&logoColor=grey)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-000000?style=for-the-badge\&logo=amazon-aws\&logoColor=grey)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=grey)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logo=chainlink\&logoColor=grey)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge\&logo=graph\&logoColor=grey)
+![Crew AI](https://img.shields.io/badge/Crew_AI-000000?style=for-the-badge\&logo=ai\&logoColor=grey)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=grey)
+
+## My GitHub Contributions This Year 
 
 <div align="center">
   
@@ -15,39 +37,64 @@ An animation of my contributions throughout the year.
 
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
-<td style="border: none; padding: 10px; vertical-align: top;">
+<td style="border: none; vertical-align: top;">
+
+<br>
 
 [![Hybrid Log Classifier](https://img.shields.io/badge/Hybrid_Log_Classifier-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/hybrid-log-classifier)  
-`Jupyter Notebook` `Python` `Transformers`
+Classify logs using Regex, ML, and LLMs.  
+`REGEX` `ML` `LLM`
+
+<br>
 
 </td>
-<td style="border: none; padding: 10px; vertical-align: top;">
+<td style="border: none; vertical-align: top;">
 
-[![Whats-Macro-n8n](https://img.shields.io/badge/Whats--Macro--n8n-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/whats-macro-n8n)  
-`OpenAI` `WhatsApp API` `Google Sheets API`
+<br>
+
+[![Finetuning LLM Unsloth](https://img.shields.io/badge/Finetune_Ollama_Unsloth-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/finetune-ollama-unsloth)  
+Phi-3 Mini: Patient Admission Fine-Tuning.  
+`LoRA` `Ollama` `Unsloth` `Phi-3`
+
+<br>
 
 </td>
-<td style="border: none; padding: 10px; vertical-align: top;">
+<td style="border: none; vertical-align: top;">
 
-[![Finetune Ollama Unsloth](https://img.shields.io/badge/Finetune_Ollama_Unsloth-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/finetune-ollama-unsloth)  
-`LoRA` `PEFT` `Ollama` `Unsloth` `Phi-3`
+<br>
+
+[![Text-to-SQL Agent](https://img.shields.io/badge/Text--to--SQL_Agent-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/text-to-sql-agent)  
+Talk to your MySQL Database.  
+`LangChain` `MySQLDB` `LLM` 
+
+<br>
 
 </td>
 </tr>
 <tr style="border: none;">
-<td style="border: none; padding: 10px; vertical-align: top;">
+<td style="border: none; vertical-align: top;">
+
+<br>
 
 [![Smart Cold Email Generator](https://img.shields.io/badge/Smart_Cold_Email_Generator-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/smart-cold-email-generator)  
-`NLP` `Transformers` `Automation`
+Draft Email with Job URL & Resume.  
+`Langchain` `HuggingFace` `Automation`
+
+<br>
 
 </td>
-<td style="border: none; padding: 10px; vertical-align: top;">
+<td style="border: none; vertical-align: top;">
 
-[![Text-to-SQL Agent](https://img.shields.io/badge/Text--to--SQL_Agent-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/text-to-sql-agent)  
-`LangChain` `SQL` `LLMs` `Python`
+<br>
+
+[![Whats Macro n8n](https://img.shields.io/badge/Whats--Macro--n8n-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/whats-macro-n8n)  
+Track daily macros with WhatsApp.  
+`OpenAI` `WhatsApp API` `Google Sheets API`
+
+<br>
 
 </td>
-<td style="border: none; padding: 10px; vertical-align: top;">
+<td style="border: none; vertical-align: top;">
 
 </td>
 </tr>
@@ -122,4 +169,8 @@ An animation of my contributions throughout the year.
 </tr>
 </table>
 
+## Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-karthick/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r0hxt/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roh.karthick@gmail.com)
 
