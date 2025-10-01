@@ -110,7 +110,7 @@ Track daily macros with WhatsApp.
 <tr style="border: none;">
 <td style="border: none; padding: 10px; vertical-align: top;">
 
-[![Agno Finance Agent](https://img.shields.io/badge/Agno_Finance_Agent-000000?style=for-the-badge&logo=github)]([link](https://github.com/7rohxt/ai-learning-hub/tree/main/agentic-ai/1-agno-finance-agent))  
+[![Agno Finance Agent](https://img.shields.io/badge/Agno_Finance_Agent-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/agentic-ai/1-agno-finance-agent) 
 [![LangGraph Crashcourse](https://img.shields.io/badge/LangGraph_Crashcourse-000000?style=for-the-badge&logo=github)](link)  
 [![CrewAI Agent](https://img.shields.io/badge/CrewAI_Agent-000000?style=for-the-badge&logo=github)](link)
 
