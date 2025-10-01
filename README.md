@@ -111,21 +111,21 @@ Track daily macros with WhatsApp.
 <td style="border: none; padding: 10px; vertical-align: top;">
 
 [![Agno Finance Agent](https://img.shields.io/badge/Agno_Finance_Agent-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/agentic-ai/1-agno-finance-agent) 
-[![LangGraph Crashcourse](https://img.shields.io/badge/LangGraph_Crashcourse-000000?style=for-the-badge&logo=github)](link)  
-[![CrewAI Agent](https://img.shields.io/badge/CrewAI_Agent-000000?style=for-the-badge&logo=github)](link)
+[![LangGraph Crashcourse](https://img.shields.io/badge/LangGraph_Crashcourse-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/agentic-ai/2-langgraph-crashcourse)  
+[![CrewAI Agent](https://img.shields.io/badge/CrewAI_Agent-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/agentic-ai/3-crewai-agent)
 
 </td>
 <td style="border: none; padding: 10px; vertical-align: top;">
 
-[![Iris Flower Classification](https://img.shields.io/badge/Iris_Flower_Classification-000000?style=for-the-badge&logo=github)](link)  
-[![Titanic Survival Prediction](https://img.shields.io/badge/Titanic_Survival_Prediction-000000?style=for-the-badge&logo=github)](link)  
-[![Housing Prediction AWS](https://img.shields.io/badge/Housing_Prediction_AWS-000000?style=for-the-badge&logo=github)](link)
+[![Iris Flower Classification](https://img.shields.io/badge/Iris_Flower_Classification-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/ml/2-iris-flower-classification)  
+[![Titanic Survival Prediction](https://img.shields.io/badge/Titanic_Survival_Prediction-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/ml/3-titanic-survival-prediction)  
+[![Housing Prediction AWS](https://img.shields.io/badge/Housing_Prediction_AWS-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/ml/4-housing-pred-aws-deployed)
 
 </td>
 <td style="border: none; padding: 10px; vertical-align: top;">
 
-[![Linear Regression](https://img.shields.io/badge/Linear_Regression-000000?style=for-the-badge&logo=github)](link)  
-[![Neural Network](https://img.shields.io/badge/Neural_Network-000000?style=for-the-badge&logo=github)](link)
+[![Linear Regression](https://img.shields.io/badge/Linear_Regression-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/blob/main/ml-models-from-scratch/linear-regression.ipynb)  
+[![Neural Network](https://img.shields.io/badge/Neural_Network-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/blob/main/ml-models-from-scratch/neural-network.ipynb)
 
 </td>
 </tr>
@@ -137,29 +137,29 @@ Track daily macros with WhatsApp.
 <tr style="border: none;">
 <td style="border: none; padding: 10px; vertical-align: top;">
 
-[![NLP Text Classifier AWS](https://img.shields.io/badge/NLP_Text_Classifier_AWS-000000?style=for-the-badge&logo=github)](link)  
-[![BERT Text Classifier](https://img.shields.io/badge/BERT_Text_Classifier-000000?style=for-the-badge&logo=github)](link)  
-[![Transformer vs NLTK Analysis](https://img.shields.io/badge/Transformer_vs_NLTK_Analysis-000000?style=for-the-badge&logo=github)](link)  
-[![YouTube Assistant](https://img.shields.io/badge/YouTube_Assistant-000000?style=for-the-badge&logo=github)](link)  
-[![LangChain Crash Course](https://img.shields.io/badge/LangChain_Crash_Course-000000?style=for-the-badge&logo=github)](link)
+[![NLP Text Classifier AWS](https://img.shields.io/badge/NLP_Text_Classifier_AWS-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/nlp-genai/1-nlp-text-classifier-aws-deployed)  
+[![BERT Text Classifier](https://img.shields.io/badge/BERT_Text_Classifier-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/nlp-genai/2-bert-basic-text-classifier)  
+[![Transformer vs NLTK Analysis](https://img.shields.io/badge/Transformer_vs_NLTK_Analysis-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/nlp-genai/3-transformer-vs-nltk-sentiment-analysis)  
+[![YouTube Assistant](https://img.shields.io/badge/YouTube_Assistant-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/nlp-genai/4-youtube-assistant)  
+[![LangChain Crash Course](https://img.shields.io/badge/LangChain_Crash_Course-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/nlp-genai/langchain-crash-course)
 
 </td>
 <td style="border: none; padding: 10px; vertical-align: top;">
 
-[![Rice Type Classification](https://img.shields.io/badge/Rice_Type_Classification-000000?style=for-the-badge&logo=github)](link)  
-[![Animal Classification CNN](https://img.shields.io/badge/Animal_Classification_CNN-000000?style=for-the-badge&logo=github)](link)  
-[![Bean Leaf Transfer Learning](https://img.shields.io/badge/Bean_Leaf_Transfer_Learning-000000?style=for-the-badge&logo=github)](link)  
-[![Audio Classification](https://img.shields.io/badge/Audio_Classification-000000?style=for-the-badge&logo=github)](link)  
-[![Stock Prediction PyTorch](https://img.shields.io/badge/Stock_Prediction_PyTorch-000000?style=for-the-badge&logo=github)](link)
+[![Rice Type Classification](https://img.shields.io/badge/Rice_Type_Classification-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/dl/1-rice-type-classification)  
+[![Animal Classification CNN](https://img.shields.io/badge/Animal_Classification_CNN-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/dl/2-animal-classification-cnn)  
+[![Bean Leaf Transfer Learning](https://img.shields.io/badge/Bean_Leaf_Transfer_Learning-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/dl/3-bean-leaf-transfer-learning)  
+[![Audio Classification](https://img.shields.io/badge/Audio_Classification-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/dl/4-audio-classification)  
+[![Stock Prediction PyTorch](https://img.shields.io/badge/Stock_Prediction_PyTorch-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/blob/main/dl/stock-prediction-pytorch/stock.ipynb)
 
 </td>
 <td style="border: none; padding: 10px; vertical-align: top;">
 
-[![Car Counter](https://img.shields.io/badge/Car_Counter-000000?style=for-the-badge&logo=github)](link)  
-[![Document Scanner](https://img.shields.io/badge/Document_Scanner-000000?style=for-the-badge&logo=github)](link)  
-[![Number Plate Detector](https://img.shields.io/badge/Number_Plate_Detector-000000?style=for-the-badge&logo=github)](link)  
-[![People Counter](https://img.shields.io/badge/People_Counter-000000?style=for-the-badge&logo=github)](link)  
-[![YOLO Basics](https://img.shields.io/badge/YOLO_Basics-000000?style=for-the-badge&logo=github)](link)
+[![Car Counter](https://img.shields.io/badge/Car_Counter-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/cv/car-counter)  
+[![Document Scanner](https://img.shields.io/badge/Document_Scanner-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/cv/document-scanner)  
+[![Number Plate Detector](https://img.shields.io/badge/Number_Plate_Detector-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/cv/number-plate-detector)  
+[![People Counter](https://img.shields.io/badge/People_Counter-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/cv/people-counter)  
+[![YOLO Basics](https://img.shields.io/badge/YOLO_Basics-000000?style=for-the-badge&logo=github)](https://github.com/7rohxt/ai-learning-hub/tree/main/cv/yolo-basics)
 
 </td>
 </tr>
