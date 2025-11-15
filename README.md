@@ -30,7 +30,7 @@ AI Engineer | Building GenAI Projects | ☕ Fueled by Coffee & Curiosity
 </div>
 
 ## Overview of my Projects
-### Gen AI Projects
+### Gen AI Starter Projects
 
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
